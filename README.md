@@ -1,2 +1,2 @@
 # repodemike
-Repositorio de ejemplo
+Repositorio de ejemplo para compartir las buenas prácticas de versionado
